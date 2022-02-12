@@ -1,0 +1,25 @@
+
+
+
+.calculadora{width: 300px;
+    background-color: blue;
+ ;margin: 40px auto;
+ box-shadow: 0px 2px 4px;
+ padding: 10px;
+}
+#display{background-color:gray ;
+height: 30px;
+padding: 10px;
+align-items: right;
+font-size: 25px;
+}
+.teclado{margin:  auto;
+}
+.teclado button{background-color: antiquewhite;
+min-width: 48px;
+padding: 8px;
+border: 1px solid;
+margin: 10px;
+}
+.teclado button:hover{box-shadow: 2px 2px 8px;
+cursor:pointer;}
